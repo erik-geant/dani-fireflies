@@ -1,6 +1,6 @@
 STARTDUST_URL = 'https://el.gc1.prod.stardust.es.net:9200'
 STARTDUST_ELASTIC_INDEX = 'stardust_firefly'
-STARDUST_QUERY_RANGE = '2d'
+STARDUST_QUERY_RANGE = '30d'
 
 EUROPEAN_MESSAGES_FILENAME_PREFIX = 'europe'
 
